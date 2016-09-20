@@ -1,0 +1,2 @@
+# Eedu
+Django Project
